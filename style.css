@@ -1,0 +1,11 @@
+* {
+    display: flex;
+    width: 100%;
+}
+
+#startDiv {
+    flex-wrap: wrap;
+}
+#countdownTimer {
+    justify-self: end;
+}
